@@ -1,4 +1,4 @@
-#FoodRunner
+FoodRunner
 
 An android app based application which named a FoodRunner
 implement-
