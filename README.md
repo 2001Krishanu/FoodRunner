@@ -24,3 +24,8 @@ The app is able to fetch the list of all restaurant from the internet through ap
 . ‘ Logout ’ functionality which takes the user to the login page.
 . ‘ Restaurant Details ’ page which displays the menu items of that particular restaurant, each item’s price and the option to add an item to cart.
 . ‘ Cart ’ which lists the items added to cart and the total amount to be paid.
+![Screenshot_20230421-180748](https://user-images.githubusercontent.com/90332465/233639616-c560571d-df39-45f5-b9d6-beb1e06700a0.png)
+![Screenshot_20230421-180821](https://user-images.githubusercontent.com/90332465/233639685-870e33a8-6e7f-466e-8551-1f57ea07882e.png)
+![Screenshot_20230421-180833](https://user-images.githubusercontent.com/90332465/233639760-172b8b66-1de6-4285-9e37-91f699bb0d28.png)
+![Screenshot_20230421-180927](https://user-images.githubusercontent.com/90332465/233639849-e10be93a-deaa-42d4-93ac-681704550cb2.png)
+![Screenshot_20230421-180933](https://user-images.githubusercontent.com/90332465/233639874-59c6e445-cc76-4e84-90b1-4221e83d8222.png)
